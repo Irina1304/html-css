@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.heder{
+    padding-top: 45px;
+}
+
+.heder_menu{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.heder_menu_home{
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.top{
+    padding-top: 87px;
+    padding-bottom: 162px;
+}
+
+.title{
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 89;
+    padding-bottom: 17px;
+}
+
+.title_text{
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.top_button{
+    padding-top: 37px;
+}
+
+.button_start{
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button_video{
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    border-style: none;
+    background: white;
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer{
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
